@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # My Portfolio
-> Click [here](https://github.com/mutinhiri/mutinhiri.github.io) to access the webpage
+> Click [here](https://mutinhiri.github.io) to access the webpage
 > 
 >This front end design portfolio is an implementation of figma design tools
 >Flexbox is used to arrange elements in positions in this page 
